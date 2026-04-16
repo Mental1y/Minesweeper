@@ -2,7 +2,7 @@
 
 Классическая игра «Сапёр», написанная на **C++** с использованием фреймворка **Qt**.
 
-![Minesweeper Preview]()  
+![Minesweeper Preview](preview.png)  
 
 ---
 
@@ -23,7 +23,7 @@
 | **Фреймворк** | Qt 5/6 |
 | **Сборка** | qmake / Qt Creator |
 | **Алгоритмы** | DFS |
-| **Структуры данных** | `std::vector`, `std::set`, `std::pair` |
+| **Структуры данных** | std::vector, std::set, std::pair |
 
 ---
 ### Требования для запуска
